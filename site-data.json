@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Speedy Garage Door Repair",
+    "shortName": "Speedy Garage Door",
+    "tagline": "Fast, Reliable Garage Door Service in Dallas",
+    "niche": "Garage Door Repair",
+    "phone": "(214) 974-4364",
+    "address": "1341 W Mockingbird Ln Suit 600W, Dallas, TX 75247",
+    "city": "Dallas, TX",
+    "hours": "Mon-Sun 7:00 AM - 9:00 PM",
+    "ctaLabel": "Schedule Your Repair",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Speedy Garage Door Repair Dallas | 24/7 Emergency Service",
+    "description": "Trusted garage door repair in Dallas. Speedy service, expert technicians, and upfront pricing. Call (214) 974-4364 for same-day service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Garage Door Experts",
+      "headline": "When Your Garage Door Fails, We're Ready",
+      "subheadline": "Same-day repair, quality parts, and a 100% satisfaction guarantee. Your safety is our priority.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (214) 974-4364"
+    },
+    "stats": [
+      {
+        "value": "25+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "4.8",
+        "label": "Star Rating"
+      },
+      {
+        "value": "500+",
+        "label": "Repairs Completed"
+      },
+      {
+        "value": "24/7",
+        "label": "Emergency Service"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Why Choose Us",
+        "title": "Expert Technicians, Fast Response",
+        "body": "Our licensed technicians arrive fully stocked to handle any garage door issue on the spot. From broken springs to opener malfunctions, we diagnose and fix it fast.",
+        "bullets": [
+          "Same-day service in Dallas",
+          "Transparent, upfront pricing",
+          "Warranty on all repairs"
+        ],
+        "reverse": false,
+        "cardLabel": "Service Promise",
+        "cardTitle": "No Hidden Fees",
+        "cardBody": "We quote the price you pay — no surprises, no upselling."
+      },
+      {
+        "eyebrow": "Our Process",
+        "title": "Hassle-Free Repair from Start to Finish",
+        "body": "We make garage door repair simple. Schedule online or call, and we'll send a pro to your home at your convenience.",
+        "bullets": [
+          "Easy online booking",
+          "Free on-site estimate",
+          "Fast, clean installation"
+        ],
+        "reverse": true,
+        "cardLabel": "Customer Care",
+        "cardTitle": "We Clean Up",
+        "cardBody": "We leave your garage spotless after every repair."
+      }
+    ],
+    "whyTitle": "Why Dallas Homeowners Trust Us",
+    "whyChooseUs": [
+      {
+        "title": "Local, Family-Owned",
+        "description": "We're your neighbors, not a national chain. We care about our community and it shows in our work."
+      },
+      {
+        "title": "Certified Technicians",
+        "description": "Every technician is trained, licensed, and background-checked for your peace of mind."
+      },
+      {
+        "title": "Upfront Pricing",
+        "description": "No hidden fees, no surprise charges. You'll know the cost before we start any work."
+      },
+      {
+        "title": "Lifetime Warranty",
+        "description": "We stand behind our parts and labor with a comprehensive warranty you can count on."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "My spring broke on a Sunday and they were here within an hour. Fast, professional, and fair price.",
+        "author": "Mike T.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "They replaced my opener and explained everything clearly. No pressure, just great service.",
+        "author": "Lisa R.",
+        "role": "Preston Hollow resident"
+      },
+      {
+        "quote": "I've used them twice now. Always on time, always friendly, and the work is top-notch.",
+        "author": "David K.",
+        "role": "Uptown Dallas"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Fix Your Garage Door?",
+      "subheadline": "Call us or book online for a free estimate. Same-day service available.",
+      "primaryCta": "Book Online",
+      "secondaryCta": "Call (214) 974-4364"
+    }
+  },
+  "servicesPage": {
+    "intro": "From minor adjustments to full replacements, Speedy Garage Door Repair offers comprehensive services for residential and commercial clients in Dallas. We use only high-quality parts and back every job with a satisfaction guarantee."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Garage Door Spring Repair",
+      "shortDescription": "Expert torsion and extension spring replacement for safe, smooth operation.",
+      "longDescription": "Broken springs are the most common garage door issue and one of the most dangerous to fix. Our technicians safely replace torsion and extension springs with precision tools and high-quality springs rated for thousands of cycles. We ensure proper tension and balance so your door operates smoothly and quietly.",
+      "benefits": [
+        "Restores safe operation",
+        "Prevents further damage",
+        "Extends door lifespan",
+        "Reduces noise and vibration"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We assess the spring type, condition, and door weight to select the correct replacement."
+        },
+        {
+          "title": "Safe Removal",
+          "description": "Using winding bars and safety protocols, we remove the old spring without risk."
+        },
+        {
+          "title": "Installation & Test",
+          "description": "New spring is installed, tensioned, and tested for balance and smooth travel."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long do garage door springs last?",
+          "answer": "Typically 7-10 years depending on usage. We use high-cycle springs for longer life."
+        },
+        {
+          "question": "Can I replace a spring myself?",
+          "answer": "No — spring replacement is extremely dangerous due to high tension. Always hire a professional."
+        }
+      ],
+      "slug": "garage-door-spring-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Garage Door Opener Repair",
+      "shortDescription": "Fix or replace faulty openers with modern, quiet, and secure models.",
+      "longDescription": "A malfunctioning opener can leave you stranded. We diagnose and repair all major brands including Chamberlain, LiftMaster, Genie, and Craftsman. If replacement is needed, we install the latest belt-drive and smart openers with Wi-Fi connectivity, battery backup, and rolling code security.",
+      "benefits": [
+        "Reliable operation every time",
+        "Quiet belt-drive options",
+        "Smart home integration",
+        "Enhanced security features"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We test the opener, sensors, remote, and wall control to pinpoint the issue."
+        },
+        {
+          "title": "Repair or Replace",
+          "description": "We fix what we can and recommend replacement only when necessary."
+        },
+        {
+          "title": "Setup & Test",
+          "description": "We program remotes, set limits, and test safety reverse system."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "My opener makes a humming noise but won't move. What's wrong?",
+          "answer": "Often the motor is running but the drive gear is stripped. We can replace the gear assembly or the whole unit."
+        },
+        {
+          "question": "Do you install smart garage door openers?",
+          "answer": "Yes! We install and set up Wi-Fi enabled openers so you can control your door from your phone."
+        }
+      ],
+      "slug": "garage-door-opener-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Garage Door Panel Replacement",
+      "shortDescription": "Replace damaged panels to restore curb appeal and insulation.",
+      "longDescription": "Accidents happen — a car bump, hail, or kids playing can dent or break a panel. Instead of replacing the whole door, we match your existing door's style and color to replace only the damaged section. We carry common sizes and can order custom panels for older doors.",
+      "benefits": [
+        "Cost-effective repair",
+        "Restores insulation",
+        "Improves home appearance",
+        "Quick turnaround"
+      ],
+      "process": [
+        {
+          "title": "Panel Matching",
+          "description": "We measure and source the exact panel to match your door's design and color."
+        },
+        {
+          "title": "Remove Old Panel",
+          "description": "We disassemble the door sections carefully to remove the damaged panel."
+        },
+        {
+          "title": "Install New Panel",
+          "description": "New panel is installed, aligned, and tested for smooth operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match any garage door panel?",
+          "answer": "We can match most standard styles and colors. For older or custom doors, we may need to order from the manufacturer."
+        },
+        {
+          "question": "Will the new panel look different from the old ones?",
+          "answer": "We aim for a perfect match. Slight color variation may occur due to sun fading, but we minimize it."
+        }
+      ],
+      "slug": "garage-door-panel-replacement"
+    },
+    {
+      "icon": "04",
+      "title": "Emergency Garage Door Service",
+      "shortDescription": "24/7 response for broken doors, stuck open, or security issues.",
+      "longDescription": "A broken garage door can leave your home vulnerable or you stranded. Our emergency team is on call 24/7, including nights, weekends, and holidays. We respond quickly to secure your property and get your door working again. Common emergencies include broken springs, snapped cables, doors off track, and opener failures.",
+      "benefits": [
+        "24/7 availability",
+        "Rapid response time",
+        "Secure your property fast",
+        "No extra charge for after-hours"
+      ],
+      "process": [
+        {
+          "title": "Emergency Call",
+          "description": "Call our 24/7 line and we'll dispatch the nearest technician."
+        },
+        {
+          "title": "On-Site Assessment",
+          "description": "We arrive with a fully stocked truck to handle most emergencies on the first visit."
+        },
+        {
+          "title": "Immediate Repair",
+          "description": "We fix the issue or secure the door, ensuring your safety and peace of mind."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you charge extra for emergency service?",
+          "answer": "No — our emergency rates are the same as regular service. We believe in fair pricing 24/7."
+        },
+        {
+          "question": "What if my door is stuck open and won't close?",
+          "answer": "We can often repair the issue on the spot. If not, we'll secure the door and schedule a follow-up repair."
+        }
+      ],
+      "slug": "emergency-garage-door-service"
+    }
+  ],
+  "about": {
+    "headline": "Your Local Garage Door Experts",
+    "mission": "To provide Dallas homeowners with fast, affordable, and reliable garage door service they can trust.",
+    "story": [
+      "Speedy Garage Door Repair was founded in 1998 by a group of experienced technicians who saw a need for honest, prompt service in the Dallas area. What started as a small operation with one truck has grown into a trusted local business serving thousands of homeowners. We've built our reputation on transparency — no hidden fees, no unnecessary repairs, just quality work at a fair price.",
+      "Today, we continue that tradition with a team of certified technicians who live and work in the communities they serve. We invest in ongoing training and top-of-the-line equipment to ensure every job is done right the first time. Whether it's a minor adjustment or a full door replacement, we treat your home with the same care we would our own."
+    ],
+    "highlight": {
+      "stat": "25+",
+      "label": "Years Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always do the right thing, even when no one is watching. That means honest assessments and fair pricing."
+      },
+      {
+        "title": "Speed",
+        "description": "We respect your time. Our team arrives on schedule and works efficiently to minimize disruption."
+      },
+      {
+        "title": "Quality",
+        "description": "We use only premium parts and materials, and we stand behind our work with a solid warranty."
+      },
+      {
+        "title": "Safety",
+        "description": "Every repair is performed with safety as the top priority — for our customers and our team."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Estimate Today",
+    "subheadline": "Call or fill out the form below. We'll respond within 30 minutes.",
+    "primaryCta": "Call (214) 974-4364",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Preston Hollow",
+      "Uptown",
+      "Oak Lawn",
+      "White Rock Lake"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.8,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Garage Door Repair",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2149744364",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
